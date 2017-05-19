@@ -1,3 +1,5 @@
+/// IKIRxSwiftPlayground v1
+///
 /// Copyright 2017 ikiApps LLC. All rights reserved.
 ///
 /// Playground supporting RxSwift and RxCocoa added as pods.
