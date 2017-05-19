@@ -4,14 +4,15 @@
 
 This is a premade workspace with a playground that imports RxSwift and RxCocoa.
 
-The frameworks were installed using Cocoapods and can be updated with it.
+The frameworks were installed using Cocoapods and can be updated using pod update.
 
-Within sources, is a copy of IKILogger for colorful logging.
+Within the `Sources` folder there is a copy of [IKILogger](https://github.com/ikiapps/IKILogger) for colorful logging.
 
-A build needs to happen before the playground will evaluate code.
+The target `IKIRxSwiftPlayground` needs to be built before the playground will evaluate code.
 
-Tested with Xcode 8.3.2.
+The playground was tested with Xcode 8.3.2.
 
 ## Release notes
 
 v1 Initial release.
+
